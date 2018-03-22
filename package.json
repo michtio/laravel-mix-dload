@@ -1,0 +1,32 @@
+{
+  "name": "laravel-mix-download",
+  "version": "0.1.0",
+  "description": "A Laravel Mix extension for downloading files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadamotion/laravel-mix-download.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "critical",
+    "webpack"
+  ],
+  "author": "Michael Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dadamotion/laravel-mix-download/issues"
+  },
+  "homepage": "https://github.com/dadamotion/laravel-mix-download#readme",
+  "peerDependencies": {
+    "laravel-mix": "^2.1.7"
+  },
+  "dependencies": {
+      "download": "^6.2.5"
+  }
+}
