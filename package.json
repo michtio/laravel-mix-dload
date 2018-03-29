@@ -17,7 +17,7 @@
     "download",
     "webpack"
   ],
-  "author": "Michael Thomas",
+  "author": "Michael Thomas <michael@dadamotion.be> (https://dadamotion.be)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dadamotion/laravel-mix-download/issues"
