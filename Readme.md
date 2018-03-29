@@ -46,5 +46,5 @@ Only `urls` is required - all other options are optional. If you don't want to u
 
 | Name             | Type               | Default              | Description   |
 | ---------------- | ------------------ | -------------------- |-------------  |
-| enabled          | `boolean`          | `mix.inProduction()` | If generating Critical CSS should be enabled |
+| enabled          | `boolean`          | `mix.inProduction()` | set to false if you don't want to download files, set to true if you always want to download files no matter the env setting. |
 | urls             | `array`            | `[]`                 | An array of url objects, each with a url and dest: `{ url: 'http://example.com/test.jpg', dest: './web/img' }` |
