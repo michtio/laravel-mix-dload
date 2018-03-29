@@ -1,5 +1,5 @@
 {
-  "name": "laravel-mix-download",
+  "name": "laravel-mix-dload",
   "version": "0.1.0",
   "description": "A Laravel Mix extension for downloading files.",
   "main": "index.js",
