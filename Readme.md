@@ -23,7 +23,7 @@ Then, require it within your `webpack.mix.js` file, like so:
 ```js
 const mix = require('laravel-mix');
 
-require('laravel-mix-criticalcss');
+require('laravel-mix-dload');
 
 mix
     .js('resources/assets/js/app.js', 'public/js')
