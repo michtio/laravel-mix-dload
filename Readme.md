@@ -15,7 +15,7 @@ This extension provides the possibility to download files for your Mix (v2.1 and
 First, install the extension.
 
 ```
-npm install laravel-mix-download --save-dev
+npm install laravel-mix-dload --save-dev
 ```
 
 Then, require it within your `webpack.mix.js` file, like so:
