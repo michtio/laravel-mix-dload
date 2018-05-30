@@ -48,3 +48,4 @@ Only `urls` is required - all other options are optional. If you don't want to u
 | ---------------- | ------------------ | -------------------- |-------------  |
 | enabled          | `boolean`          | `mix.inProduction()` | set to false if you don't want to download files, set to true if you always want to download files no matter the env setting. |
 | urls             | `array`            | `[]`                 | An array of url objects, each with a url and dest: `{ url: 'http://example.com/test.jpg', dest: './web/img' }` |
+| dest             | `string`            | `''`                 | The string where the downloaded files need to be saved this overrides the specific url destination setting |

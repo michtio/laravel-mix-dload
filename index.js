@@ -19,6 +19,7 @@ class Download {
         this.config = Object.assign({
             enabled: mix.inProduction(),
             urls: [],
+            dest: '',
         }, config);
     }
 
@@ -29,7 +30,15 @@ class Download {
 
             this.config.urls.forEach((file) => {
 
-                download(file.url, file.dest);
+                if (this.config.dest) {
+
+                    download(file.url, this.config.dest);
+
+                } else {
+
+                    download(file.url, file.dest);
+
+                }
 
             });
 
