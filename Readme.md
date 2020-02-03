@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://www.npmjs.com/package/laravel-mix-dload"><img src="https://img.shields.io/npm/v/laravel-mix-download.svg" alt="NPM"></a>
-<a href="https://npmcharts.com/compare/laravel-mix-dload?minimal=true"><img src="https://img.shields.io/npm/dt/laravel-mix-download.svg" alt="NPM"></a>
-<a href="https://www.npmjs.com/package/laravel-mix-dload"><img src="https://img.shields.io/npm/l/laravel-mix-download.svg" alt="NPM"></a>
+<a href="https://www.npmjs.com/package/laravel-mix-dload"><img src="https://img.shields.io/npm/v/laravel-mix-dload.svg" alt="NPM"></a>
+<a href="https://npmcharts.com/compare/laravel-mix-dload?minimal=true"><img src="https://img.shields.io/npm/dt/laravel-mix-dload.svg" alt="NPM"></a>
+<a href="https://www.npmjs.com/package/laravel-mix-dload"><img src="https://img.shields.io/npm/l/laravel-mix-dload.svg" alt="NPM"></a>
 </p>
 
 
